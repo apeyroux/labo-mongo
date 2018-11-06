@@ -1,0 +1,9 @@
+name: labo-mongo
+executable:
+  source-dirs: app
+  main: Main.hs
+  dependencies:
+    - base
+    - mongoDB
+    - text
+    - transformers
